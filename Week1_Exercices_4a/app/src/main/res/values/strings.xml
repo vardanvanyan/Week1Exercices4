@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Week1_Exercices_4a</string>
+    <string name="on_button">aaa</string>
+    <string name="off_button">bbb</string>
+    <string name="call">call</string>
+    <string name="red">Red</string>
+    <string name="orange">Orange</string>
+    <string name="yellow">Yellow</string>
+    <string name="blue">Blue</string>
+    <string name="indigo">Indigo</string>
+    <string name="green">Green</string>
+    <string name="violet">Violet</string>
+    <string name="orange1">Orange</string>
+    <string name="yellow1">Yellow</string>
+    <string name="blue1">Blue</string>
+    <string name="indigo1">Indigo</string>
+    <string name="green1">Green</string>
+    <string name="violet1">Violet</string>
+    <string name="myocean">myOcean</string>
+    <string name="mycall">myCall</string>
+    <string name="mysmsone">MySmsOne</string>
+    <string name="mysmstwo">mySmsTwo</string>
+    <string name="mymail">myMail</string>
+    <string name="number">(0322)30015</string>
+    <string name="google_voice_text">Google Voice</string>
+    <string name="myNumberTwo">(098)119192</string>
+    <string name="MyMobileOne">Mobile</string>
+    <string name="phoneNumber">Phone</string>
+    <string name="myPhoneNumber">+37498119192</string>
+    <string name="seekbar">SeekBar</string>
+    <string name="constraint">Constraint</string>
+    <string name="relative">Relative</string>
+    <string name="frame">Frame</string>
+    <string name="coordinator">Coordinator</string>
+    <string name="_0_third">0</string>
+    <string name="_0_one">0</string>
+    <string name="_0_two">0</string>
+
+
+</resources>
